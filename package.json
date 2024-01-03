@@ -1,0 +1,22 @@
+{
+  "name": "study_playwright",
+  "version": "1.0.0",
+  "description": "「フロントエンドテスト入門」の練習用リポジトリ",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgmgshake/study_playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgmgshake/study_playwright/issues"
+  },
+  "homepage": "https://github.com/mgmgshake/study_playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.6"
+  }
+}
